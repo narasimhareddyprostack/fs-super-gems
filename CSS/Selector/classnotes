@@ -1,0 +1,10 @@
+Types of Selector
+-------------------
+Tag Selector
+Group of Tags Selector
+class Selector
+Id
+Group of tag , class and id Selector
+
+universal Selector - * 
+Attribute Selector 
